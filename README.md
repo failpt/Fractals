@@ -8,6 +8,3 @@ In the past, mathematics primarily dealt with sets and functions to which classi
 In recent years, this attitude has changed. It was understood that much can be said, and should be said, about the mathematics of nonsmooth objects. Moreover, irregular sets provide a much better representation of many natural phenomena than do figures of classical geometry. Fractal geometry provides a general framework for the study of such irregular sets. I will begin with a brief review of a number of simple examples of fractals and pay attention to some of their characteristics.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/failpt/Fractals/main?urlpath=%2Fvoila%2Frender%2Ffractals.ipynb)
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/failpt/Fractals/main?urlpath=%2Fvoila%2Frender%2Ffractals.ipynb
