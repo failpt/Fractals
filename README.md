@@ -6,3 +6,6 @@ My year 11 term paper on fractals
 
 In the past, mathematics primarily dealt with sets and functions to which classical calculus methods could be applied. Sets or functions that were not sufficiently smooth or regular were generally ignored as 'pathological' and not worthy of study. Typically, they were considered individual curiosities and were only rarely treated as a class to which a general theory could be applied. 
 In recent years, this attitude has changed. It was understood that much can be said, and should be said, about the mathematics of nonsmooth objects. Moreover, irregular sets provide a much better representation of many natural phenomena than do figures of classical geometry. Fractal geometry provides a general framework for the study of such irregular sets. I will begin with a brief review of a number of simple examples of fractals and pay attention to some of their characteristics.
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/failpt/Fractals/main?urlpath=%2Fvoila%2Frender%2Ffractals.ipynb
