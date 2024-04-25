@@ -7,5 +7,5 @@ if you are one of those people I suggest you follow the official instructions an
 since I am also a beginner and this is the fisrt time I ever did something like this and the first time I actually coded on python, 
 the only languages I was familiar with before were C#, html, CSS and JavaScript and only the very basics of them. 
 
-Sorry if the content of this readme file is not what you expected it to be, if you have any suggestions or/and advice on how to improve any part of my work - I'm all ears!
+Sorry if the content of this file is not what you expected it to be, if you have any suggestions or/and advice on how to improve any part of my work - I'm all ears!
 
