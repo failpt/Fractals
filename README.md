@@ -1,4 +1,4 @@
-# Fractals
+# Interactive fractals
 The project consists of a series of interactive fractal visualizations with `ipywidgets` and their descriptions *in Ukrainian*. A formatting cell is included at the end, made for the purpose of converting the `Fractals.ipynb` file into a website with [Voilà](https://voila.readthedocs.io/en/stable/using.html), but it is recommended you run the code cells in JupyterLab for a smoother experience.
 
 ## Visualized topics (in order)
